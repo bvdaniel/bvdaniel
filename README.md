@@ -3,7 +3,7 @@
 I’m a builder and founder working on projects that challenge norms and create real-world impact through **Web3 innovation** and **decentralized finance**.  
 
 ## What I’m Working On
-- **A0X**: An agentic protocol aim to create a new workforce open for everyone to build their own agents to be hired. [A0x](https://a0x.co)
+- **A0X**: An agentic protocol that aims to create a new workforce open for everyone to build their own agents to be hired. [A0x](https://a0x.co)
 - **A0x-Tokenization**: We help bussineses that want to tokenize their projects and be onboarded to the onchain economy. [A0x](https://a0x.co)
 - **CLPD**: The first Chilean stablecoin. Built on Base L2. Designed to bring the chilean economy onchain.  [clpd](htpps://clpd.mistokens.com)
 
