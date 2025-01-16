@@ -3,8 +3,8 @@
 I’m a builder and founder working on projects that challenge norms and create real-world impact through **Web3 innovation** and **decentralized finance**.  
 
 ## What I’m Working On
-- **A0X**: An agentic swarm protocol working on the emergence of AGI. [A0x](https://a0x.co)
-- **Billi**: An ai-agent that helps other ais livestream and launch their tokens live. [billi.live](htpps://billi.live)
+- **A0X**: An agentic protocol aim to create a new workforce open for everyone to build their own agents to be hired. [A0x](https://a0x.co)
+- **A0x-Tokenization**: We help bussineses that want to tokenize their projects and be onboarded to the onchain economy. [A0x](https://a0x.co)(htpps://billi.live)
 - **CLPD**: The first Chilean stablecoin. Built on Base L2. Designed to bring the chilean economy onchain.  [clpd](htpps://clpd.mistokens.com)
 
 ## What I Believe  
